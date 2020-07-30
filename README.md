@@ -1,6 +1,5 @@
 # Custom Template Matching Algorithm
-Object detection using color histograms over overlapping patches using custom thresholds
-This is a university project.
+Object detection using color histograms over overlapping patches using custom thresholds.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
