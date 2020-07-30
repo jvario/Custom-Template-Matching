@@ -1,10 +1,3 @@
-#   ------------------------------Computer Vision------------------------------
-#                    ----------LAB2-Mainscript_Q2----------
-#                              Name: Giannis
-#                              Surname: Variozidis
-#                              Email: cs141065@uniwa.gr
-#                              ID: cs141065
-#   ---------------------------------------------------------------------------
 
 # import the necessary packages
 import cv2
