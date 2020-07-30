@@ -10,11 +10,13 @@ These instructions will get you a copy of the project up and running on your loc
 2. Install ```Python 3.7``` or older versions
 3. Ensure cv2 is installed using ```pip install cv2 --user```
 
-### Screenshots
-<img src="https://user-images.githubusercontent.com/19184453/80916213-f92b5e80-8d5f-11ea-8fa3-51f393dcccd0.png" width="200" height="350"> <img src="https://user-images.githubusercontent.com/19184453/80916260-3b54a000-8d60-11ea-98d9-fe3491798e78.png" width="200" height="350"> <img src="https://user-images.githubusercontent.com/19184453/80916276-5a533200-8d60-11ea-9bee-f5c60eaef3c7.png" width="200" height="350"/>
+### Template Image and Original Image 
+<img src="https://user-images.githubusercontent.com/19184453/88867439-27f98980-d216-11ea-9342-47b6e0eb44ae.jpg" width="400" height="350"> 
+<img src="https://user-images.githubusercontent.com/19184453/88867576-8888c680-d216-11ea-8ee4-6796677a387e.png" width="400" height="350"> 
+### Results 
+<img src="https://user-images.githubusercontent.com/19184453/88867627-b241ed80-d216-11ea-960e-c9f1863fdcb4.png" width="400" height="350"> 
 
 ## Authors
-
 * **Giannis Variozidis** - *Initial work* - [jvario](https://github.com/jvario)
 
 ## License
